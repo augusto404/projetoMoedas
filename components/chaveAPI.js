@@ -1,0 +1,1 @@
+export const chaveAPI = 'a8c23f0b183161f4710085de';
